@@ -1,8 +1,8 @@
-# 📚 Portfólio de Algoritmos e Estruturas de Dados (Java)
+# Algoritmos e Classificação de Dados
 
-Este repositório contém as implementações e análises de performance desenvolvidas em **Java** para a disciplina de **Algoritmos e Estruturas de Dados II**. O foco principal é o estudo prático de complexidade, manipulação de grafos e estruturas de indexação avançada.
+Este repositório contém as implementações e análises de performance desenvolvidas em **Java** para a disciplina de **Algoritmos e Classificação de Dados**. O foco principal é o estudo prático de algoritmos de ordenação, manipulação de grafos e tries.
 
-## 🗂 Estrutura do Repositório
+## Estrutura do Repositório
 
 | Trabalho | Tema / Descrição | Pasta do Projeto |
 | :--- | :--- | :--- |
