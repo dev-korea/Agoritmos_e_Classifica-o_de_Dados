@@ -14,15 +14,5 @@ Este repositório contém as implementações e análises de performance desenvo
 ---
 
 ## 🛠 Tecnologias Utilizadas
-* **Linguagem:** Java (JDK)
-* **Ferramentas:** VS Code / Eclipse / IntelliJ (opcional)
-
-## 🚀 Como Executar
-
-Cada pasta possui seu próprio código fonte. Para rodar um projeto específico, você precisará compilar os arquivos `.java`.
-
-Exemplo via terminal:
-
-1. Entre na pasta do projeto:
-   ```bash
-   cd tp2grafos
+* **Linguagens:** Java e Python
+* **Ferramentas:** VS Code / IntelliJ
