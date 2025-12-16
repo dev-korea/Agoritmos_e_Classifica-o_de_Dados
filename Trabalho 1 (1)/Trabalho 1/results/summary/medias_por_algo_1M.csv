@@ -1,0 +1,8 @@
+algo,ordem,n,media_ns
+bucket+insertion,aleatorio,1000000,54036259310
+bucket+merge,aleatorio,1000000,454805470
+counting,aleatorio,1000000,15735150
+heap,aleatorio,1000000,810583560
+merge,aleatorio,1000000,674556980
+quick,aleatorio,1000000,382555170
+radixLSD,aleatorio,1000000,88324330
