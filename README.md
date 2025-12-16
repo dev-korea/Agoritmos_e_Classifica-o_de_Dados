@@ -1,6 +1,6 @@
-# 📚 Portfólio de Algoritmos e Estruturas de Dados
+# 📚 Portfólio de Algoritmos e Estruturas de Dados (Java)
 
-Este repositório contém as implementações e análises de performance desenvolvidas para a disciplina de **Algoritmos e Estruturas de Dados II**. O foco principal é o estudo prático de complexidade, manipulação de grafos e estruturas de indexação avançada.
+Este repositório contém as implementações e análises de performance desenvolvidas em **Java** para a disciplina de **Algoritmos e Estruturas de Dados II**. O foco principal é o estudo prático de complexidade, manipulação de grafos e estruturas de indexação avançada.
 
 ## 🗂 Estrutura do Repositório
 
@@ -14,15 +14,15 @@ Este repositório contém as implementações e análises de performance desenvo
 ---
 
 ## 🛠 Tecnologias Utilizadas
-* **Linguagens:** C++ / Python (ajuste conforme o que usou)
-* **Ferramentas:** GCC, Makefiles, Scripts de análise.
+* **Linguagem:** Java (JDK)
+* **Ferramentas:** VS Code / Eclipse / IntelliJ (opcional)
 
 ## 🚀 Como Executar
 
-Cada pasta possui seu próprio código fonte. Para rodar um projeto específico, navegue até a pasta e siga as instruções locais (se houver) ou compile os arquivos `main`.
+Cada pasta possui seu próprio código fonte. Para rodar um projeto específico, você precisará compilar os arquivos `.java`.
 
-Exemplo para o Trabalho de Grafos:
-```bash
-cd tp2grafos
-# Exemplo de comando de execução
-# python main.py  OU  ./main
+Exemplo via terminal:
+
+1. Entre na pasta do projeto:
+   ```bash
+   cd tp2grafos
